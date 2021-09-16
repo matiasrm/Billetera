@@ -1,4 +1,4 @@
-# Billetera Digital. |  Wallet.
+# Billetera Digital |  Wallet
 
 
  
